@@ -1,6 +1,24 @@
 # bioinformatics
 open bioinformatics program
 
+### Tech Tree
+```
+[NGS root]-[RNAseq analysis]
+         |-[ChIPseq analysis]
+         ...
+         
+[RNAseq analysis]-[DE: differential expression analysis] 
+          \-[AS: alternative splicing]_[isoform oriented]
+           \                    \_[event oriented]
+            \-[PA: PolyAseq analysis]-[3'UTR focussed]-[trend shifting test]
+                         \                       \-[independence test]
+                          \-[PCPA focussed]-[independence test]
+                          
+                          
+                       
+...
+```
+
 ### Project Template
   * background 
   * problem
