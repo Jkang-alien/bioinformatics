@@ -2,6 +2,7 @@
 open bioinformatics program
 
 ### Tech Tree
+see details in [wiki](https://github.com/Xcollege/bioinformatics/wiki)
 ```
 [NGS root]-[RNAseq analysis]
          |-[ChIPseq analysis]
@@ -18,6 +19,7 @@ open bioinformatics program
                        
 ...
 ```
+
 
 ### Project Template
   * background 
